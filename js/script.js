@@ -26,7 +26,8 @@ const products = [
     { name: 'Regata', icon: 'fas fa-vest-patches' },
     { name: 'Calça League', icon: 'fas fa-socks' },
     { name: 'Short League', icon: 'fas fa-shorts' },
-    { name: 'Top', icon: 'fas fa-female' }
+    { name: 'Top', icon: 'fas fa-female' },
+    { name: 'Colete Fitness', icon: 'fas fa-tshirt' }
 ];
 
 // Array para armazenar os lançamentos
