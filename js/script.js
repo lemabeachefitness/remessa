@@ -24,12 +24,12 @@ const products = [
     { name: 'Camisa', icon: 'fas fa-tshirt' },
     { name: 'T-Shirt', icon: 'fas fa-tshirt' },
     { name: 'Regata', icon: 'fas fa-vest-patches' },
-    { name: 'Calça League', icon: 'fas fa-socks' },
+    { name: 'Calça League', icon: 'fas fa-male' },
     { name: 'Short League', icon: 'fas fa-shorts' },
     { name: 'Top', icon: 'fas fa-female' },
     { name: 'Colete Fitness', icon: 'fas fa-tshirt' },
     { name: 'Conjunto de Calça', icon: 'fas fa-socks' },
-    { name: 'Conjunto de Short', icon: 'fas fa-shorts' }
+    { name: 'Conjunto de Short', icon: 'fas fa-male' }
 ];
 
 // Array para armazenar os lançamentos
