@@ -27,7 +27,9 @@ const products = [
     { name: 'Calça League', icon: 'fas fa-socks' },
     { name: 'Short League', icon: 'fas fa-shorts' },
     { name: 'Top', icon: 'fas fa-female' },
-    { name: 'Colete Fitness', icon: 'fas fa-tshirt' }
+    { name: 'Colete Fitness', icon: 'fas fa-tshirt' },
+    { name: 'Conjunto de Calça', icon: 'fas fa-socks' },
+    { name: 'Conjunto de Short', icon: 'fas fa-shorts' }
 ];
 
 // Array para armazenar os lançamentos
